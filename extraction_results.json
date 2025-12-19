@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "total_pdfs": 1,
+    "successful": 1,
+    "failed": 0,
+    "unique_plates": 1
+  },
+  "grouped_by_plate": {
+    "PL2125G": [
+      {
+        "zlecenie_nr": "25/3022A",
+        "termin_rozladunku": "2025-09-26",
+        "tablica_rejestracyjna": "PL2125G",
+        "fracht": 450.0,
+        "miejsce_zaladunku": "Bargteheide",
+        "miejsce_rozladunku": "Wiechlice",
+        "source_file": "transport_order_3022.pdf"
+      }
+    ]
+  },
+  "no_plate": []
+}
